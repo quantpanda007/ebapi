@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+backtrader
+duckdb
+pandas
+pydantic
+python-dotenv
